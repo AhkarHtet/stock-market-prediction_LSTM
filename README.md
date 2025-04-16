@@ -13,7 +13,7 @@ The models are trained on historical data and saved along with their correspondi
 ## 🚀 Try it Live
 
 Click the link below to use the app directly from your browser – no setup needed!  
-👉 [Launch App on Streamlit](https://your-deployment-link.streamlit.app)
+👉 [Launch App on Streamlit](https://stockmarketanalysisandpredictionusinglstmpy-ftrk7isrkuvmdjdozx.streamlit.app/)
 
 *(Replace the URL above with your actual Streamlit link once deployed.)*
 
